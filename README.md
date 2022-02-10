@@ -36,3 +36,9 @@ This project's client app was built using the following primary technologies
 - **Jest + React-Testing-Library**
     - Testing framework and library used for unit tests, integration tests, and end-to-end tests.
 
+## Features
+
+- My job applications: Table where a user can add, edit, sort, and delete their job applications. Users can add the URL to the job description, the job title, company, date added, and status.
+- Career advice: Users can see cards displaying relevant career advice articles from The Muse. Users can click on a card to see the full article.
+- Authentication: A user can create a new account, login, and logout of the app. While logged in, they will see their own job applications.
+
