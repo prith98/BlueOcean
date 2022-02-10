@@ -2,7 +2,7 @@
 
 ## Background
 
-*Thumbs Up* is a full-stack assignment for the Hack Reactor software engineering immersive program.
+*Thumbs Up* is a full-stack application created for the Hack Reactor software engineering immersive program.
 
 - Mitchell Gardner - *Product Manager & Software Engineer*
 - Prith Jaganathan - *Architecture Owner & Software Engineer*
