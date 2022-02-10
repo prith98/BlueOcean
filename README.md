@@ -1,4 +1,4 @@
-# "Thumbs Up" Client - The Next Gen RideShare App
+# "Thumbs Up" - The Next Gen RideShare App
 
 ## Background
 
