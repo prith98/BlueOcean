@@ -2,7 +2,7 @@
 
 ## Background
 
-*Thumbs Up* is a full-stack application created for the Hack Reactor software engineering immersive program.
+*Thumbs Up* is a full-stack rideshare application created during my tenure at Hack Reactor.
 
 - Mitchell Gardner - *Product Manager & Software Engineer*
 - Prith Jaganathan - *Architecture Owner & Software Engineer*
@@ -12,19 +12,20 @@
 - Ezra Pullido - *Software Engineer*
 
 
-These six developers were given roughly 1.5 weeks to build out a fullstack web application from scratch according to a rough concept from a client.
+These six developers were given roughtly 10 days to build out a fullstack web application from scratch according to a rough concept from a client.
 
 ---
 
-
 ## Primary Technologies
 
-This project's client app was built using the following primary technologies
+This application was built using the following primary technologies
 
 - **ReactJS**
     - Frontend javascript framework used to build the user interface.
 - **React Router**
     - Complementary library to ReactJS responsible for conditionally rendering the app's views based on the current URL.
+- **CSS/Bootstrap**
+    - Utilized popular Bootstrap components such as Buttons, Forms, and Cards to have consistent styling across the app
 - **PostgreSQL**
     - Went with SQL DB over a NoSQL DB (Mongo) due to the fact that user data and ride data were intertwined enough 
 - **Babel**
@@ -38,7 +39,7 @@ This project's client app was built using the following primary technologies
 
 ---
 
-## Features
+## My Features
 
 - Users can securely log in with username/password combination. Invalid combination of username/password will in an error alert. 
 - New Users can create an account by pressing on the appropriate button. If users try to use a username already in the database, they will receive an error alert. Upon successfuly creating an account,  users are redirected to the login page
