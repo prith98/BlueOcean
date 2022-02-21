@@ -45,3 +45,5 @@ This application was built using the following primary technologies
 - New Users can create an account by pressing on the appropriate button. If users try to use a username already in the database, they will receive an error alert. Upon successfuly creating an account,  users are redirected to the login page
 - Upon successfully logging in, users are taken to a landing page where they can choose to use the app as a rider or driver. Selecting on either the rider/driver image will take the user to the respective portal for riders/drivers. 
 
+![Login/Create-A-User/Landing Page](https://imgur.com/a/YvB2nBa)
+
